@@ -16,13 +16,16 @@ Sitio web que muestra asuntos relacionados con la elaboración y presentación  
 
 
 
+
+
+
 ![01  Inicio_01](https://github.com/user-attachments/assets/dd1146d3-7c22-40fa-a96c-9d4b45c6b729)
 **==========================================================================**
-![01  Inicio_02](https://github.com/user-attachments/assets/f8448af7-0473-484a-a060-e185b3d82892)
+![01  Inicio_02](https://github.com/user-attachments/assets/c70e47e3-7f05-4e27-8507-da021c438bfc)
 **==========================================================================**
-![01  Inicio_03](https://github.com/user-attachments/assets/cac01b91-9b29-4263-8178-47ed5a2d51bc)
+![01  Inicio_03](https://github.com/user-attachments/assets/09beeb1a-204c-4ced-a778-e3f78958067b)
 **==========================================================================**
-![01  Inicio_04](https://github.com/user-attachments/assets/386e80ea-0938-443b-bd7e-6baf88602be4)
+![01  Inicio_04](https://github.com/user-attachments/assets/23387c91-cd71-4f60-a222-e860b0da5f9a)
 **==========================================================================**
 ![01  Inicio_05](https://github.com/user-attachments/assets/4d2aed23-6ab5-4e18-b672-e9efbd1af74d)
 ![01  Inicio_06](https://github.com/user-attachments/assets/d8471784-9570-410f-ab1f-684a0536c733)
