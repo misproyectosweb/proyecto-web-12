@@ -19,79 +19,96 @@ Sitio web que muestra asuntos relacionados con la elaboración y presentación  
 
 
 
-![01  Inicio_01](https://github.com/user-attachments/assets/dd1146d3-7c22-40fa-a96c-9d4b45c6b729)
+
+![01  Inicio_01](https://github.com/user-attachments/assets/f0f827a8-fd1a-488d-81d4-13ec4783e454)
 **==========================================================================**
-![01  Inicio_02](https://github.com/user-attachments/assets/c70e47e3-7f05-4e27-8507-da021c438bfc)
+![01  Inicio_02](https://github.com/user-attachments/assets/bf2a5f82-899b-4aa5-9539-3fd0e5af680c)
 **==========================================================================**
-![01  Inicio_03](https://github.com/user-attachments/assets/09beeb1a-204c-4ced-a778-e3f78958067b)
+![01  Inicio_03](https://github.com/user-attachments/assets/5d5db498-42af-4b64-9b9f-26e24645a19d)
 **==========================================================================**
-![01  Inicio_04](https://github.com/user-attachments/assets/23387c91-cd71-4f60-a222-e860b0da5f9a)
+![01  Inicio_04](https://github.com/user-attachments/assets/9b7cd253-2bbe-4099-888b-a4200f442702)
 **==========================================================================**
-![01  Inicio_05](https://github.com/user-attachments/assets/4d2aed23-6ab5-4e18-b672-e9efbd1af74d)
-![01  Inicio_06](https://github.com/user-attachments/assets/d8471784-9570-410f-ab1f-684a0536c733)
-![01  Inicio_07](https://github.com/user-attachments/assets/558a7eeb-8b09-478a-931a-11f08b162934)
-![01  Inicio_08](https://github.com/user-attachments/assets/92123a69-955c-4cdc-a08a-9f97566a02aa)
+![01  Inicio_05](https://github.com/user-attachments/assets/077f4b01-1291-4208-a76e-8ec9fb4cd96d)
+![01  Inicio_06](https://github.com/user-attachments/assets/83aca240-91bf-4245-b9a3-d74716b423a2)
+![01  Inicio_07](https://github.com/user-attachments/assets/937c6639-2a26-4ebf-b76c-edd3d3453baf)
+![01  Inicio_08](https://github.com/user-attachments/assets/c8b42803-e721-44eb-8a99-7597d3281153)
 **==========================================================================**
-![01  Inicio_09](https://github.com/user-attachments/assets/4259f810-5d56-437a-839b-d938beae9828)
-![01  Inicio_10](https://github.com/user-attachments/assets/8c0622f4-87d5-4cd2-ba21-8e1d4f1e1338)
+![01  Inicio_09](https://github.com/user-attachments/assets/1a36aa1d-4470-4adb-bdcd-8179fe5b68c2)
+![01  Inicio_10](https://github.com/user-attachments/assets/b4049cb3-b73d-474c-940e-b1e041c1982f)
 **==========================================================================**
-![02  Cocteles_01](https://github.com/user-attachments/assets/ec9aa9d7-02ab-4879-a4c3-44d04ca4902c)
+![06  Historia_01](https://github.com/user-attachments/assets/79a8f47d-b2df-425d-838f-96a2bbc82435)
 **==========================================================================**
-![02  Cocteles_02](https://github.com/user-attachments/assets/535a64e0-69da-46db-9045-458aa9cf7b6d)
+![06  Historia_02](https://github.com/user-attachments/assets/145c52f6-778c-4d0b-aef2-d6c09cff4b75)
 **==========================================================================**
-![02  Cocteles_03](https://github.com/user-attachments/assets/bb1f9760-cf93-4694-a647-5d56740d85b0)
+![06  Historia_03](https://github.com/user-attachments/assets/4d6139b8-d300-4a0a-a3ab-b549369355e2)
 **==========================================================================**
-![02  Cocteles_04](https://github.com/user-attachments/assets/1d5674a1-fbc6-4a3d-bf0b-1ee40dd5fced)
+![06  Historia_04](https://github.com/user-attachments/assets/07349c0d-a322-4ba3-9306-227481cd4a21)
+![06  Historia_05](https://github.com/user-attachments/assets/91633b46-e8d0-4725-9937-24b65a2f3dfb)
+![06  Historia_06](https://github.com/user-attachments/assets/8122c035-0cf5-4733-b420-e94b4e5caa67)
+![06  Historia_07](https://github.com/user-attachments/assets/1ba30588-11ab-4972-8108-9af997f936ed)
 **==========================================================================**
-![02  Cocteles_05](https://github.com/user-attachments/assets/15de4093-4ee1-4065-9907-a187dc180f6b)
+![02  Cocteles_01](https://github.com/user-attachments/assets/1e001018-3b70-4353-afce-3633465ef5a9)
 **==========================================================================**
-![02  Cocteles_06](https://github.com/user-attachments/assets/5288660b-5f81-4487-b434-4a0f2935330e)
+![02  Cocteles_02](https://github.com/user-attachments/assets/ce8785d5-e38e-455f-99e9-cee3b6fbada1)
 **==========================================================================**
-![02  Cocteles_07](https://github.com/user-attachments/assets/52278a20-9547-447b-bd14-46f9b6d6f562)
+![02  Cocteles_03](https://github.com/user-attachments/assets/81de2c01-431d-427f-81c1-db35272c3fcf)
 **==========================================================================**
-![02  Cocteles_08](https://github.com/user-attachments/assets/789d45be-5d97-42e4-b987-f073882dd7f0)
-![02  Cocteles_09](https://github.com/user-attachments/assets/a8c2c009-4a2a-4957-8560-c4586b0f4f2b)
-![02  Cocteles_10](https://github.com/user-attachments/assets/bda1c233-badc-4460-89d0-72146e89437e)
-![02  Cocteles_11](https://github.com/user-attachments/assets/94a5e11c-c1e6-4989-a7da-f1afbd7e42d1)
+![02  Cocteles_04](https://github.com/user-attachments/assets/6e5f9963-5670-4d68-8f82-f4cfa81ad715)
 **==========================================================================**
-![02  Cocteles_12](https://github.com/user-attachments/assets/8f916f54-97e4-40e2-834d-62448639d63e)
-![02  Cocteles_13](https://github.com/user-attachments/assets/9c225ee0-a332-4f69-90ff-da14c11371f8)
-![02  Cocteles_14](https://github.com/user-attachments/assets/4afcddf4-1240-4968-9678-64b2e9f44349)
-![02  Cocteles_15](https://github.com/user-attachments/assets/4b321896-e8fe-4465-aca3-ad3f94b5ac29)
+![02  Cocteles_05](https://github.com/user-attachments/assets/e5e3b274-2751-4134-8b66-50070c0ec9a8)
 **==========================================================================**
-![03  Consejos_01](https://github.com/user-attachments/assets/20294125-504c-4287-a3cb-e58d1e4012b1)
+![02  Cocteles_06](https://github.com/user-attachments/assets/c82fc253-1c78-45da-aa9b-10b7c859c98b)
 **==========================================================================**
-![03  Consejos_02](https://github.com/user-attachments/assets/0514f537-6e9c-4ed6-84b9-e569d4206de5)
+![02  Cocteles_07](https://github.com/user-attachments/assets/9a48795c-7e1d-436f-927e-7916498a69d9)
 **==========================================================================**
-![03  Consejos_03](https://github.com/user-attachments/assets/588a8233-fb44-4b36-a407-84d7ad5fe43a)
+![02  Cocteles_08](https://github.com/user-attachments/assets/486a961e-a6a7-43f6-b598-fb41780000f8)
+![02  Cocteles_09](https://github.com/user-attachments/assets/a1bf96e8-a417-4854-bade-f3368325fac7)
+![02  Cocteles_10](https://github.com/user-attachments/assets/5a392dbc-9869-42d2-b79f-974b2ca30f1e)
+![02  Cocteles_12](https://github.com/user-attachments/assets/b56d2586-1d90-4d4e-a03b-c2a5762a2202)
 **==========================================================================**
-![03  Consejos_04](https://github.com/user-attachments/assets/a69087fa-2fb5-48af-8efd-f6daf264feac)
+![02  Cocteles_13](https://github.com/user-attachments/assets/b8fcefef-9b3c-4648-8fae-efcebd830cb3)
+![02  Cocteles_14](https://github.com/user-attachments/assets/83d64922-8ad4-487c-9e23-16475fcd7527)
+![02  Cocteles_15](https://github.com/user-attachments/assets/40229c45-dfa2-4439-a183-beb0c6476f12)
+![02  Cocteles_16](https://github.com/user-attachments/assets/78e82b89-8709-4bcd-a918-68806655432f)
 **==========================================================================**
-![03  Consejos_05](https://github.com/user-attachments/assets/3dc645ed-9ac9-4c59-aecf-1d1bfa1d3bb6)
+![03  Consejos_01](https://github.com/user-attachments/assets/f165675b-b025-4374-966a-7fa25611b6c2)
 **==========================================================================**
-![03  Consejos_06](https://github.com/user-attachments/assets/dc66e28f-0fbc-4fd2-8a6a-c0c62aef7cd2)
+![03  Consejos_02](https://github.com/user-attachments/assets/8f2703f8-d2ea-46a1-ae0e-c1f1d707d17d)
 **==========================================================================**
-![03  Consejos_07](https://github.com/user-attachments/assets/ba1209b4-e1d9-4cc4-aabd-280de277b6c1)
-![03  Consejos_08](https://github.com/user-attachments/assets/e0c525a9-2abb-4e87-bb0f-892d26db3843)
+![03  Consejos_03](https://github.com/user-attachments/assets/deee3ab4-68e1-4216-8dbf-7ba18e73257b)
 **==========================================================================**
-![04  Ingredientes_01](https://github.com/user-attachments/assets/76b9b2a6-5665-45b2-a144-a116eb296676)
+![03  Consejos_04](https://github.com/user-attachments/assets/128b1075-1da1-4bd7-8adc-2593867ecc0e)
 **==========================================================================**
-![04  Ingredientes_02](https://github.com/user-attachments/assets/01c62f49-b924-479c-a1bf-50cc22c9e0af)
+![03  Consejos_05](https://github.com/user-attachments/assets/bfab831b-b6f0-475e-96da-271f45530449)
 **==========================================================================**
-![04  Ingredientes_03](https://github.com/user-attachments/assets/d6fea603-382d-4bc1-a8e8-b86730ae1ac9)
+![03  Consejos_06](https://github.com/user-attachments/assets/70ab0893-f3d3-42dd-b43d-52d563d412a1)
 **==========================================================================**
-![04  Ingredientes_04](https://github.com/user-attachments/assets/a2598d40-fee4-424d-907c-8c5b10f78faa)
+![03  Consejos_07](https://github.com/user-attachments/assets/f4947aff-a51a-48e5-b726-5d9182659bf4)
+![03  Consejos_08](https://github.com/user-attachments/assets/d76b86c3-b424-482d-aca2-1a3b424cc293)
+![03  Consejos_09](https://github.com/user-attachments/assets/3b2337a8-f13a-4e3b-968f-703fec6e733b)
+![03  Consejos_10](https://github.com/user-attachments/assets/40a69672-e049-4c22-8d15-1e23b221fe5a)
 **==========================================================================**
-![04  Ingredientes_05](https://github.com/user-attachments/assets/81601cc4-1da4-43f8-be90-6d8945f76ba9)
+![04  Ingredientes_01](https://github.com/user-attachments/assets/63019eeb-1069-4bec-99e3-3c8bdf9d952b)
 **==========================================================================**
-![04  Ingredientes_06](https://github.com/user-attachments/assets/efc3db48-1ea0-4978-b9a7-e80bc1ee0ade)
-![04  Ingredientes_07](https://github.com/user-attachments/assets/cb7f5d0c-6d28-4e1d-bf61-2dc0a3f3e9db)
+![04  Ingredientes_02](https://github.com/user-attachments/assets/2f1ea66d-8d99-4c91-90a0-5c966b87013f)
 **==========================================================================**
-![05  FAQ_01](https://github.com/user-attachments/assets/23344e81-c9aa-4bea-aaf1-1a052871fbbe)
+![04  Ingredientes_03](https://github.com/user-attachments/assets/59735f1d-9482-43cd-a045-d989d9a59727)
 **==========================================================================**
-![05  FAQ_02](https://github.com/user-attachments/assets/674eaa3a-e7ab-43af-bd5d-faa9c2cbcef7)
+![04  Ingredientes_04](https://github.com/user-attachments/assets/6b1eb4b5-091b-4b16-859a-a8c9a349b6ab)
 **==========================================================================**
-![05  FAQ_03](https://github.com/user-attachments/assets/cefcd7c9-2286-4637-885a-9862255e8d70)
+![04  Ingredientes_05](https://github.com/user-attachments/assets/7dca5906-4c4c-46a2-a88b-eaa56c9d26f1)
 **==========================================================================**
-![05  FAQ_05](https://github.com/user-attachments/assets/c1d326a7-6364-406c-ab28-874ec5181b46)
-![05  FAQ_04](https://github.com/user-attachments/assets/e48beabc-63c7-4ef3-abc2-3f93752f2a3a)
+![04  Ingredientes_06](https://github.com/user-attachments/assets/3ec4bbb4-aaa8-4de7-90fa-422f7d8b16f6)
+![04  Ingredientes_07](https://github.com/user-attachments/assets/cf018678-0c81-4883-aedb-f1e6e1db33b1)
+![04  Ingredientes_08](https://github.com/user-attachments/assets/20c3b88c-08a4-443a-9047-49f28815da2e)
+![04  Ingredientes_09](https://github.com/user-attachments/assets/1e5d8843-b388-463d-9605-ed7ab46d4d51)
+**==========================================================================**
+![05  FAQ_01](https://github.com/user-attachments/assets/e2e8e5e6-3a83-4a63-a3b8-d20b32837aaf)
+**==========================================================================**
+![05  FAQ_02](https://github.com/user-attachments/assets/4fd92758-de7b-4427-9fea-100b8d26b681)
+**==========================================================================**
+![05  FAQ_03](https://github.com/user-attachments/assets/6e2b653c-0c33-44b7-bbb9-81dc45ec68da)
+**==========================================================================**
+![05  FAQ_06](https://github.com/user-attachments/assets/0a6a98f7-3474-4b07-be3d-970063833ab8)
+![05  FAQ_05](https://github.com/user-attachments/assets/dc44a0c9-38d5-487c-8da6-aabd17c20818)
+![05  FAQ_04](https://github.com/user-attachments/assets/2fc616ea-efb9-4645-bd8c-9678bebd72b3)
