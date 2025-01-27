@@ -1,24 +1,27 @@
 # Proyecto web 12
 Sitio web que muestra asuntos relacionados con la elaboración y presentación  de cocteles y bebidas
 
+Este proyecto fue creado con las siguientes herramientas de nivel front-end y back-end:
 
+- **WordPress:**	Sistema de gestión de contenidos enfocado a la creación de cualquier tipo de página o sitio web
+- **WPForms Lite:**	Permite crear formularios para sitios o blogs gestionados en WordPress
+- **WP Mail SMTP:**	Reconfigura la función wp_mail() para usar Gmail y otros gestores de correo en lugar de mail() 
+- **Recent Posts Widget With Thumbnails:**	Complemento pequeño y rápido para mostrar en la barra lateral una lista de títulos vinculados y miniaturas de las publicaciones más recientes
+- **Sassy Social Share:**	Un plugin que permite agregar botones para compartir todas las publicaciones creadas en las distintas redes sociales que existen actualmente
+- **Spectra:**	Amplía la funcionalidad de Gutenberg con bloques únicos y ricos en funciones que ayudan a crear sitios web más rápido.
 
+Este sitio web está creado y adaptado para ejecutarse tanto en computadoras de escritorio como en dispositivos móviles, tales como tablets y smartphones gracias a las características que trae incorporadas la plataforma WordPress.
 
+El sitio web consta de las siguientes secciones:
 
+1.	Inicio: es la página principal del sitio web. Entre las secciones que contiene esta página presenta una donde se pretende exhortar o desafiar a todas aquellas personas que anhelan incursionar en el mundo de la coctelería. Entre otras secciones que contiene esta página principal hay una acerca de testimonios brindados por usuarios quienes manifiestan su opinión acerca de lo que encontraron durante la exploración del sitio, otra sección que muestra las últimas publicaciones ingresadas, otra sección que muestra un formulario para que todo aquel usuario interesado en recibir boletines semanales y finalmente una sección con enlaces a las distintas redes sociales con el fin de que el usuario pueda continuar interactuando con otros usuarios y aportando ideas, conocimientos y habilidades con el objetivo de ampliar y diversificar el mundo de los cocteles.
+2.	Historia: presenta una breve reseña acerca de los orígenes de la coctelería, su influencia en la vida cotidiana de las personas particularmente durante los últimos tres siglos, el giro significativo que impulsó el ingenio y la creatividad de muchos profesionales en esta materia debido a las limitaciones o restricciones impuestas principalmente a principios del siglo XX. Por último, se explica cómo se dio un resurgimiento, redescubrimiento o revitalización experimentado por la coctelería con la implementación de nuevas técnicas e incorporación de nuevos ingredientes para transformar los cocteles en algo más que simples bebidas, en algo así como una nueva forma de arte culinaria.
+3.	Cocteles: esta sección nos muestra una serie de publicaciones que nos enseña a preparar cocteles de distintas formas y con distintos sabores, utilizando desde múltiples tipos de vinos hasta la creación de cocteles sin necesidad de agregar algún tipo de bebida alcohólica. En la parte derecha de esta sección el usuario tiene a su disposición enlaces de otras publicaciones creadas de manera reciente, así como un buscador para que pueda localizar lo que necesite en específico. Además puede escribir un comentario y leer y responder los comentarios hechos por otros usuarios.
+4.	Consejos: esta sección nos muestra una serie de publicaciones que nos brinda recomendaciones y buenas prácticas que nos permitirán preservar y mantener siempre frescos todos aquellos ingredientes que más adelante vamos a usar para crear y personalizar nuestros cocteles, el manejo de las herramientas que se necesitan para medir las cantidades exactas de ingredientes para las bebidas y cómo crear presentaciones que nos ayudarán a impresionar a nuestros invitados y mejorar nuestras habilidades para garantizar el éxito de nuestras preparaciones.
+5.	Ingredientes: esta sección nos muestra una serie de publicaciones que le ayudarán tanto a un experimentado mixólogo como a alguien quien está comenzando a explorar la creación de bebidas y cocteles profesionales o caseros a descubrir nuevos sabores, a encontrar el balance adecuado de dulzura, textura, alcohol y amargura de sus preparaciones
+6.	FAQ: esta es una sección que abarcan una serie de temas que le permiten a los usuarios obtener rápidamente respuestas a preguntas frecuentes y así poder conocer más fondo acerca del mundo de la coctelería.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+A continuación se presentan algunas imágenes del sitio web descrita anteriormente:
 
 ![01  Inicio_01](https://github.com/user-attachments/assets/f0f827a8-fd1a-488d-81d4-13ec4783e454)
 **==========================================================================**
