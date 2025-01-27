@@ -4,9 +4,10 @@ Sitio web que muestra asuntos relacionados con la elaboración y presentación  
 Este proyecto fue creado con las siguientes herramientas de nivel front-end y back-end:
 
 - **WordPress:**	Sistema de gestión de contenidos enfocado a la creación de cualquier tipo de página o sitio web
+- **Astra:**  Astra es un tema totalmente personalizable, adecuado para blogs, porfolios personales, sitios de negocios y tiendas online WooCommerce. Ofrece características especiales y plantillas, por lo que funciona perfectamente con maquetadores de páginas como Elementor, Beaver Builder, Divi, etc.
+- **Spectra:**	Amplía la funcionalidad de Gutenberg con bloques únicos y ricos en funciones que ayudan a crear sitios web más rápido
 - **Recent Posts Widget With Thumbnails:**	Complemento pequeño y rápido para mostrar en la barra lateral una lista de títulos vinculados y miniaturas de las publicaciones más recientes
 - **Sassy Social Share:**	Un plugin que permite agregar botones para compartir todas las publicaciones creadas en las distintas redes sociales que existen actualmente
-- **Spectra:**	Amplía la funcionalidad de Gutenberg con bloques únicos y ricos en funciones que ayudan a crear sitios web más rápido.
 
 Este sitio web está creado y adaptado para ejecutarse tanto en computadoras de escritorio como en dispositivos móviles, tales como tablets y smartphones gracias a las características que trae incorporadas la plataforma WordPress.
 
